@@ -1,9 +1,0 @@
-package pract2;
-
-public class lists {
-	public static void sum() {
-		System.out.println("a");
-		
-	}
-
-}

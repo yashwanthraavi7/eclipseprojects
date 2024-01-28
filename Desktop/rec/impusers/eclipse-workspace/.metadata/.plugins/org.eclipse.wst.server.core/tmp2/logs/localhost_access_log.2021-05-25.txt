@@ -1,5 +1,0 @@
-127.0.0.1 - - [25/May/2021:13:22:26 +0530] "GET / HTTP/1.1" 404 751
-0:0:0:0:0:0:0:1 - - [25/May/2021:13:22:28 +0530] "GET /JspPrac/vote.html HTTP/1.1" 200 340
-0:0:0:0:0:0:0:1 - - [25/May/2021:13:23:10 +0530] "GET /JspPrac/votereligibility.jsp?userName=yash&age=78 HTTP/1.1" 200 195
-0:0:0:0:0:0:0:1 - - [25/May/2021:13:24:07 +0530] "GET /JspPrac/votereligibility.jsp?userName=yash&age=78 HTTP/1.1" 200 191
-0:0:0:0:0:0:0:1 - - [25/May/2021:13:24:12 +0530] "GET /JspPrac/votereligibility.jsp?userName=yash&age=78 HTTP/1.1" 200 191

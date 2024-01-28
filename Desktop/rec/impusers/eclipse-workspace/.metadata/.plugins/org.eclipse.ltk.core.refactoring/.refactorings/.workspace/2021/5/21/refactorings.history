@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;WebAppTraining&apos;" deleteContents="false" description="Delete resource &apos;WebAppTraining&apos;" element1="/WebAppTraining" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1621260014741"/>&#x0A;<refactoring comment="Rename resource &apos;WebAppTrainin&apos; to &apos;WebAppTraining&apos;" description="Rename resource &apos;WebAppTrainin&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/WebAppTrainin" name="WebAppTraining" stamp="1621260303934" updateReferences="true"/>
-</session>

@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Delete 11 resources" deleteContents="true" description="Delete 11 resources" element1="/spring-data-rest-tests-mongodb" element10="/spring-data-rest-tests" element11="/spring-data-rest-hal-explorer" element2="/spring-data-rest-core" element3="/spring-data-rest-tests-jpa" element4="/spring-data-rest-tests-core" element5="/spring-data-rest-webmvc" element6="/spring-data-rest-distribution" element7="/spring-data-rest-tests-shop" element8="/spring-data-rest-tests-security" element9="/spring-data-rest-" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="11" stamp="1662653357629"/>
-</session>

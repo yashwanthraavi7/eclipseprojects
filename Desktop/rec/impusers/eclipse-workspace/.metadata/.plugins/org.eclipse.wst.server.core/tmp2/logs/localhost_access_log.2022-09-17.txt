@@ -1,2 +1,0 @@
-127.0.0.1 - - [17/Sep/2022:10:15:57 +0530] "GET / HTTP/1.1" 404 751
-0:0:0:0:0:0:0:1 - - [17/Sep/2022:10:16:00 +0530] "GET /IPL/WEB-INF/classes/ipl/dao/impl/ConnectionFactory.java HTTP/1.1" 404 682

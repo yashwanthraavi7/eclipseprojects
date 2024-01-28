@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Move &apos;Phots.jpg&apos; to &apos;bootstrap&apos;" description="Move &apos;Phots.jpg&apos; to &apos;bootstrap&apos;" destination="public/bootstrap" element1="public/DivPractice/Phots.jpg" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1620805503923" updateReferences="true"/>&#x0A;<refactoring comment="Move &apos;Phots.jpg&apos; to &apos;DivPractice&apos;" description="Move &apos;Phots.jpg&apos; to &apos;DivPractice&apos;" destination="public/DivPractice" element1="public/bootstrap/Phots.jpg" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1620805910526" updateReferences="true"/>
-</session>
