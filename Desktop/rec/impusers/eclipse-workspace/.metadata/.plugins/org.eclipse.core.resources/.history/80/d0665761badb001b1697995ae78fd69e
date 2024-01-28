@@ -1,0 +1,47 @@
+package practice;
+
+public class bean {
+private	int id ;
+ private final int sal;
+ 
+ 
+ 
+
+	
+public bean() {
+	this.sal = 0;
+	System.out.println("default constructor is called");
+	
+};
+	
+ 
+ 
+ 
+public bean(int id, int sal) {
+	
+this();
+this.id = id;
+//this.sal = sal;
+}
+
+
+
+
+	public int getId() {
+		return id;
+	}
+	public void setId(int id) {
+		this.id = id;
+	this.id=1666;
+	}
+	public int getSal() {
+		return sal;
+	}
+	public void setSal(int sal) {
+		this.sal = sal;
+	}
+	
+	
+	
+	
+}

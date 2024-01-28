@@ -1,0 +1,18 @@
+package practice;
+
+public class NumReverse {
+	public void Print() {
+		System.out.println("object can store any class object but you have to cast it");
+	}
+	
+	public static void main(String[] args) {
+		int num=12345;
+		String string="";
+		int fin=0;
+		Object obj= new NumReverse();
+		((NumReverse) obj).Print();
+		
+	}
+	
+
+}

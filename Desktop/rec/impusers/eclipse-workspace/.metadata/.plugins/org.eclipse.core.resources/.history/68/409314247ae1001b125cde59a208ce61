@@ -1,0 +1,20 @@
+package practice;
+
+public class strings {
+
+	public static void main(String[] args) {
+		
+		bean hi=new hi; 
+				
+		String a ="hi";
+		String b ="hi";
+		
+		if (a==b) {
+			System.out.println("yes");
+		}
+		
+		if (a.equals(b)) {System.out.println("yessss");}
+		
+	}
+	
+}

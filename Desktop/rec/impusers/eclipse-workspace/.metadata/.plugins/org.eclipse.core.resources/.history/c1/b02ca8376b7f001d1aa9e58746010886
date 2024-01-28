@@ -1,0 +1,18 @@
+package pracmap;
+
+import java.util.HashMap;
+
+public class MapsPrac {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		HashMap<Integer, String> at = new HashMap<Integer, String>();
+		
+		at.put(1," yashwanth");
+		
+		at.put(1," gopi");
+	
+	}
+
+}
